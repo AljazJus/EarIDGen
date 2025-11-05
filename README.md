@@ -187,23 +187,3 @@ This framework supports research in:
 
 This project is released under [appropriate license]. Please cite our work if you use this code in your research.
 
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{earidgen2024,
-  title={Generation of Ear Identities using Diffusion Models: An Embedding-Based Approach},
-  author={[Your Authors]},
-  journal={[Journal/Conference]},
-  year={2024}
-}
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
-
-## Contact
-
-For questions or collaboration opportunities, please contact [your contact information].
