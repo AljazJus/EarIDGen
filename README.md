@@ -182,8 +182,3 @@ This framework supports research in:
 - Pandas
 - SafeTensors
 - EasyDict
-
-## License
-
-This project is released under [appropriate license]. Please cite our work if you use this code in your research.
-
